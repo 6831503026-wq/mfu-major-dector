@@ -1,0 +1,182 @@
+[
+  {
+    "_id": 1005,
+    "name": "Thai Language and Culture for Foreigners",
+    "alias": "Thai"
+  },
+  {
+    "_id": 1006,
+    "name": "English",
+    "alias": "English"
+  },
+  {
+    "_id": 1102,
+    "name": "Applied Chemistry",
+    "alias": "Applied Chemistry"
+  },
+  {
+    "_id": 1112,
+    "name": "Materials Engineering",
+    "alias": "Materials Engineering"
+  },
+  {
+    "_id": 1105,
+    "name": "Biosciences",
+    "alias": "Biosciences"
+  },
+  {
+    "_id": 1201,
+    "name": "Accounting",
+    "alias": "Accounting"
+  },
+  {
+    "_id": 1202,
+    "name": "Economics",
+    "alias": "Economics"
+  },
+  {
+    "_id": 1203,
+    "name": "Business Administration",
+    "alias": "BA"
+  },
+  {
+    "_id": 1205,
+    "name": "Tourism Business And Event",
+    "alias": "TBE"
+  },
+  {
+    "_id": 1207,
+    "name": "Hospitality Business Management",
+    "alias": "HBM"
+  },
+  {
+    "_id": 1301,
+    "name": "Digital Technology for Business Innovation",
+    "alias": "DTBI"
+  },
+  {
+    "_id": 1306,
+    "name": "Multimedia Technology and Animation",
+    "alias": "MTA"
+  },
+  {
+    "_id": 1501,
+    "name": "Computer Engineering",
+    "alias": "CE"
+  },
+  {
+    "_id": 1502,
+    "name": "Digital And Communication Engineering",
+    "alias": "DCE"
+  },
+  {
+    "_id": 1401,
+    "name": "Innovative Food Science And Technology",
+    "alias": "Innovative Food"
+  },
+  {
+    "_id": 1407,
+    "name": "Agri-Food Logistics",
+    "alias": "Agri-Food Logistics"
+  },
+  {
+    "_id": 1503,
+    "name": "Software Engineering",
+    "alias": "SE"
+  },
+  {
+    "_id": 1601,
+    "name": "Laws",
+    "alias": "Laws"
+  },
+  {
+    "_id": 1606,
+    "name": "Business Law And Chinese Communication",
+    "alias": "Business Law And Chinese Communication"
+  },
+  {
+    "_id": 1701,
+    "name": "Cosmetic Science",
+    "alias": "Cosmetic Science"
+  },
+  {
+    "_id": 1703,
+    "name": "Beauty Technology",
+    "alias": "Beauty Technology"
+  },
+  {
+    "_id": 1807,
+    "name": "Environmental Health",
+    "alias": "Environmental Health"
+  },
+  {
+    "_id": 31804,
+    "name": "Public Health",
+    "alias": "Public Health"
+  },
+  {
+    "_id": 1808,
+    "name": "Occupational Health and Safety",
+    "alias": "Occupational Health and Safety"
+  },
+  {
+    "_id": 1806,
+    "name": "Sports And Health Science",
+    "alias": "Sports And Health Science"
+  },
+  {
+    "_id": 1901,
+    "name": "Nursing Science",
+    "alias": "Nursing Science"
+  },
+  {
+    "_id": 2101,
+    "name": "Doctor of Medicine",
+    "alias": "Doctor of Medicine"
+  },
+  {
+    "_id": 2201,
+    "name": "Doctor of Dental Surgery",
+    "alias": "Doctor of Dental Surgery"
+  },
+  {
+    "_id": 2301,
+    "name": "International Development",
+    "alias": "ID"
+  },
+  {
+    "_id": 2402,
+    "name": "Business Chinese",
+    "alias": "Business Chinese"
+  },
+  {
+    "_id": 2403,
+    "name": "Teaching Chinese Language",
+    "alias": "Teaching Chinese Language"
+  },
+  {
+    "_id": 2404,
+    "name": "Chinese Language And Culture",
+    "alias": "Chinese Language And Culture"
+  },
+  {
+    "_id": 2401,
+    "name": "Chinese Studies",
+    "alias": "Chinese Studies"
+  },
+  {
+    "_id": 2502,
+    "name": "Physical Therapy",
+    "alias": "Physical Therapy"
+  },
+  {
+    "_id": 2501,
+    "name": "Applied Thai Traditional Medicine",
+    "alias": "Applied Thai Traditional Medicine"
+  },
+  {
+    "_id": 2503,
+    "name": "Traditional Chinese Medicine",
+    "alias": "Traditional Chinese Medicine"
+  }
+]

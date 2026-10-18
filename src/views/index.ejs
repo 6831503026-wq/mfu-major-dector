@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MFU Major Detector</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <main class="container">
+    <h1>MFU Major Detector</h1>
+    <p>Enter your MFU student ID or Lamduan email.</p>
+
+    <form action="/detect-major" method="POST">
+      <label for="studentId">Student ID or Email</label>
+      <input
+        type="text"
+        id="studentId"
+        name="studentId"
+        value="<%= input %>"
+        placeholder="6831503026"
+        required
+      >
+      <button type="submit">Detect Major</button>
+    </form>
+
+    <% if (error) { %>
+      <div class="error">
+        <%= error %>
+      </div>
+    <% } %>
+
+    <% if (result) { %>
+      <section class="result">
+        <h2>Your Major</h2>
+        <p><strong>Student ID:</strong> <%= result.studentId %></p>
+       <!-- <p><strong>Major Code:</strong> <%= result.majorCode %></p> -->
+        <p><strong>Major:</strong> <%= result.name %></p>
+        <p><strong>Alias:</strong> <%= result.alias %></p>
+      </section>
+    <% } %>
+  </main>
+</body>
+</html>
